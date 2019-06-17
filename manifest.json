@@ -1,0 +1,11 @@
+{
+  "files": {
+    "index.js": "9812a6af41de2a3f70b1e5b2cebf5320abcb1730ffe1821ae5d9abc135438c47",
+    "module.json": "d54a727d5f6fea0bc91d0f495c99b58752e10f7b06f654929e2aaf8a8ec42763",
+    "README.md": "6cb0181328de484b79b636daa93905588597f6f5ff027efda96c4315d1bc1526"
+  },
+	"defs": {
+		"C_CHAT": 1,
+    "C_WHISPER": 1
+	}
+}

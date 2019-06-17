@@ -1,0 +1,11 @@
+{
+	"disableAutoUpdate": false,
+	"name": "paste",
+	"author": "Cybours",
+	"description": "Paste text to your ingame chat",
+	"options": {
+		"niceName": "paste"
+	},
+	"servers": ["https://raw.githubusercontent.com/Cybours/tera-paste/master/"],
+	"supportUrl": "https://github.com/Cybours/tera-paste/issues"
+}
